@@ -7,6 +7,9 @@ function App() {
   return (
     <>
       <p className="read-the-docs">use state hook in react. we can use hooks only in functional component</p>
+      <p>
+        feat usestate
+      </p>
   <State/>
   <Stateexample/>
     </>
